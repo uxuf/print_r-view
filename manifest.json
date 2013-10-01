@@ -1,0 +1,7 @@
+{
+    "manifest_version": 2,
+
+    "name": "print_r-view",
+    "description": "Prettifies output of PHP's print_r, with expandable trees and other goodies.",
+    "version": "0.1"
+}
